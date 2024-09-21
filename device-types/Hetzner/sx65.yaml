@@ -1,9 +1,35 @@
 ---
 manufacturer: Hetzner
 model: SX65
-slug: hetzner-sx65
+slug: htz_sx65
 part_number: sx65
-comments: "AMD Ryzen™ 7 3700X\nOcta-Core Matisse (Zen2) Simultaneous Multithreading Virtualisierung (AMD-V)\n64 GB DDR4 ECC\n2x 1 TB (Gen3)\n4x 22 TB SATA 7200 rpm"
-u_height: 0
-is_full_depth: false
-interfaces: []
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: Ryzen™ 7 3700X / Octa-Core Matisse (Zen2) Simultaneous Multithreading Virtualisierung (AMD-V)
+  - name: RAM
+    manufacturer: Other
+    description: 64 GB DDR4 ECC
+  - name: Storage
+    manufacturer: Other
+    description: 1024 GB (Gen3)
+  - name: Storage
+    manufacturer: Other
+    description: 1024 GB (Gen3)
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm

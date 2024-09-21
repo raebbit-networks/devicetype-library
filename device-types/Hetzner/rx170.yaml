@@ -1,9 +1,24 @@
 ---
 manufacturer: Hetzner
 model: RX170
-slug: hetzner-rx170
+slug: htz_rx170
 part_number: rx170
-comments: "Ampere ® Altra ® Q80-30\n80 Cores Single-Threading Arm64-Architektur\n128 GB ECC RAM\n2 x 960 GB (Gen4)"
-u_height: 0
-is_full_depth: false
-interfaces: []
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: Ampere
+    description: Altra® Q80-30 / 80 Cores Single-Threading Arm64-Architektur
+  - name: RAM
+    manufacturer: Other
+    description: 128 GB ECC RAM
+  - name: Storage
+    manufacturer: Other
+    description: 960 GB (Gen4)
+  - name: Storage
+    manufacturer: Other
+    description: 960 GB (Gen4)
+

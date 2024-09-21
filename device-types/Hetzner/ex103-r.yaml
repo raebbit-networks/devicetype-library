@@ -1,9 +1,23 @@
 ---
 manufacturer: Hetzner
 model: EX130-R
-slug: hetzner-ex130-r
+slug: htz_ex130-r
 part_number: ex130-r
-comments: "Intel® Xeon® Gold 5412U\n24-Core Sapphire Rapids SP Hyper-Threading Technology Virtualization (Intel-VT)\n256 GB DDR5 ECC reg.\n2 x 1.92 TB (Gen4)"
-u_height: 0
-is_full_depth: false
-interfaces: []
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: Intel
+    description: Xeon® Gold 5412U / 24-Core Sapphire Rapids SP Hyper-Threading Technology Virtualization (Intel-VT)
+  - name: RAM
+    manufacturer: Other
+    description: 64 GB DDR5 ECC
+  - name: Storage
+    manufacturer: Other
+    description: 1.92 GB (Gen4)
+  - name: Storage
+    manufacturer: Other
+    description: 1.92 GB (Gen4)

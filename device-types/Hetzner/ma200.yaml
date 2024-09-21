@@ -1,9 +1,23 @@
 ---
 manufacturer: Hetzner
 model: MA200
-slug: hetzner-msrv_ma200
+slug: htz_msrv_ma200
 part_number: ma200
-comments: "AMD EPYC™7502P 32-Core Rome (Zen2) Simultaneous Multithreading\n256 GB DDR4 ECC\n2 x 1,92 TB"
-u_height: 0
-is_full_depth: false
-interfaces: []
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: EPYC™7502P 32-Core Rome (Zen2) Simultaneous Multithreading
+  - name: RAM
+    manufacturer: Other
+    description: 256 GB DDR4 ECC
+  - name: Storage
+    manufacturer: Other
+    description: 1092 GB
+  - name: Storage
+    manufacturer: Other
+    description: 1092 GB

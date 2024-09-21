@@ -1,9 +1,20 @@
 ---
 manufacturer: Hetzner
 model: MC60
-slug: hetzner-msrv_mc60
+slug: htz_msrv_mc60
 part_number: mc60
-comments: "8 vCores\n32 GB RAM\n400 GB NVMe SSD"
-u_height: 0
-is_full_depth: false
-interfaces: []
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: 8 vCores
+  - name: RAM
+    manufacturer: Other
+    description: 32 GB RAM
+  - name: Storage
+    manufacturer: Other
+    description: 400 GB NVMe SSD

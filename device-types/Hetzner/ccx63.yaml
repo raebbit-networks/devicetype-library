@@ -1,9 +1,21 @@
 ---
 manufacturer: Hetzner
 model: CCX63
-slug: hetzner-hcld_ccx63
+slug: htz_hcld_ccx63
 part_number: 101
 comments: "cores: 48\nmemory: 192.0\ndisk: 960\nstorage_type: local\ncpu_type: dedicated\narchitecture: x86"
-u_height: 0
-is_full_depth: false
-interfaces: []
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: 48 Cores
+  - name: RAM
+    manufacturer: Other
+    description: 192 GB
+  - name: Storage
+    manufacturer: Other
+    description: 960 GB

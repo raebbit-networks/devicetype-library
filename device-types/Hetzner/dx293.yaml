@@ -1,9 +1,20 @@
 ---
 manufacturer: Hetzner
 model: DX293
-slug: hetzner-dx293
+slug: htz_dx293
 part_number: dx293
-comments: "2x Intel® Xeon® Gold 6438Y+\n32-Core, Sapphire Rapids Hyper-Threading-Technologie Virtualisierung (Intel-VT)\n64 GB DDR5 ECC reg."
-u_height: 0
-is_full_depth: false
-interfaces: []
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: Intel
+    description: Xeon® Gold 6438Y+ / 32-Core, Sapphire Rapids Hyper-Threading-Technologie Virtualisierung (Intel-VT)
+  - name: CPU
+    manufacturer: Intel
+    description: Xeon® Gold 6438Y+ / 32-Core, Sapphire Rapids Hyper-Threading-Technologie Virtualisierung (Intel-VT)
+  - name: RAM
+    manufacturer: Other
+    description: 64 GB DDR5 ECC reg.
