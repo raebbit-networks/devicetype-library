@@ -1,6 +1,6 @@
 ---
 manufacturer: Hetzner
-model: AX102
+model: Dedicated Root Server AX102
 slug: htz_ax102
 part_number: ax102
 u_height: 1

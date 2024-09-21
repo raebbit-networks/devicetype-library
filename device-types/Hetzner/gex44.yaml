@@ -1,6 +1,6 @@
 ---
 manufacturer: Hetzner
-model: GEX44
+model: Dedicated GPU Server GEX44
 slug: htz_gex44
 part_number: gex44
 u_height: 1
