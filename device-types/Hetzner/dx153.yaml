@@ -1,0 +1,20 @@
+---
+manufacturer: Hetzner
+model: DX153
+slug: htz_dx153
+part_number: dx153
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: Intel
+    description: Xeon® Silver 4410Y / 12-Core, Sapphire Rapids Hyper-Threading-Technologie Virtualisierung (Intel-VT)
+  - name: CPU
+    manufacturer: Intel
+    description: Xeon® Silver 4410Y / 12-Core, Sapphire Rapids Hyper-Threading-Technologie Virtualisierung (Intel-VT)
+  - name: RAM
+    manufacturer: Other
+    description: 64 GB DDR5 ECC reg.

@@ -1,0 +1,20 @@
+---
+manufacturer: Hetzner
+model: GEX44
+slug: htz_gex44
+part_number: gex44
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: Intel
+    description: Core™ i5-13500 / 6 Performance Cores 8 Efficient Cores
+  - name: GPU
+    manufacturer: Nvidia
+    description: RTX™ 4000 SFF Ada Generation (20GB GDDR6 ECC) / 306.8 TFLOPS
+  - name: RAM
+    manufacturer: Other
+    description: 64 GB DDR4

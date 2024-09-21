@@ -1,0 +1,23 @@
+---
+manufacturer: Hetzner
+model: RX220
+slug: htz_rx220
+part_number: rx220
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: Ampere
+    description: Altra® Q80-30 / 80 Cores Single-Threading Arm64-Architektur
+  - name: RAM
+    manufacturer: Other
+    description: 256 GB ECC RAM
+  - name: Storage
+    manufacturer: Other
+    description: 3084 GB (Gen4)
+  - name: Storage
+    manufacturer: Other
+    description: 3084 GB (Gen4)

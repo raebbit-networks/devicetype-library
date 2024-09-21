@@ -1,0 +1,23 @@
+---
+manufacturer: Hetzner
+model: EX101
+slug: htz_ex101
+part_number: ex101
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: Intel
+    description: Core™ i9-13900 / 8-Performance-Cores + 16-Efficient-Cores Raptor Lake-S Hyper-Threading Technology Virtualization (Intel-VT)
+  - name: RAM
+    manufacturer: Other
+    description: 64 GB DDR5 ECC
+  - name: Storage
+    manufacturer: Other
+    description: 1.92 GB (Gen4)
+  - name: Storage
+    manufacturer: Other
+    description: 1.92 GB (Gen4)

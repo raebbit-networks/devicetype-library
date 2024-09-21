@@ -1,0 +1,23 @@
+---
+manufacturer: Hetzner
+model: AX42
+slug: htz_ax42
+part_number: ax42
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: Ryzen™ 7 PRO 8700GE / Octa-Core Phoenix 1 (Zen4) Simultaneous Multithreading Virtualisierung (AMD-V)
+  - name: RAM
+    manufacturer: Other
+    description: 64 GB DDR5 ECC
+  - name: Storage
+    manufacturer: Other
+    description: 512 GB (Gen4)
+  - name: Storage
+    manufacturer: Other
+    description: 512 GB (Gen4)

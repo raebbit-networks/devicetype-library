@@ -1,0 +1,17 @@
+---
+manufacturer: Hetzner
+model: DX182
+slug: htz_dx182
+part_number: dx182
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: EPYC™ 9454P / 48-Core, Genoa (Zen4) Simultaneous Multithreading Virtualisierung (AMD-V)
+  - name: RAM
+    manufacturer: Other
+    description: 128 GB DDR5 ECC reg.

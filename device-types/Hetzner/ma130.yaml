@@ -1,0 +1,23 @@
+---
+manufacturer: Hetzner
+model: MA130
+slug: htz_msrv_ma130
+part_number: ma130
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: Ryzen™ 9 5950X 16-Core Vermeer (Zen3) Simultaneous Multithreading
+  - name: RAM
+    manufacturer: Other
+    description: 128 GB DDR4 ECC
+  - name: Storage
+    manufacturer: Other
+    description: 960 GB
+  - name: Storage
+    manufacturer: Other
+    description: 960 GB

@@ -1,0 +1,20 @@
+---
+manufacturer: Hetzner
+model: MC30
+slug: htz_msrv_mc30
+part_number: mc30
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: 4 vCores
+  - name: RAM
+    manufacturer: Other
+    description: 16 GB RAM
+  - name: Storage
+    manufacturer: Other
+    description: 200 GB NVMe SSD

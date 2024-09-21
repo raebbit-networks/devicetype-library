@@ -1,0 +1,23 @@
+---
+manufacturer: Hetzner
+model: MA80
+slug: htz_msrv_ma80
+part_number: ma80
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: Ryzen™ 7 3700X Octa-Core Matisse (Zen2) Simultaneous Multithreading
+  - name: RAM
+    manufacturer: Other
+    description: 64 GB DDR4 ECC
+  - name: Storage
+    manufacturer: Other
+    description: 512 GB
+  - name: Storage
+    manufacturer: Other
+    description: 512 GB

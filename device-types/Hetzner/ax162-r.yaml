@@ -1,0 +1,23 @@
+---
+manufacturer: Hetzner
+model: AX162-R
+slug: htz_ax162-r
+part_number: ax162-r
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: EPYC™ 9454P / 48 Core Genoa (Zen4) Simultaneous Multithreading Virtualization (AMD-V)
+  - name: RAM
+    manufacturer: Other
+    description: 256 GB DDR5 ECC
+  - name: Storage
+    manufacturer: Other
+    description: 1092 GB (Gen4)
+  - name: Storage
+    manufacturer: Other
+    description: 1092 GB (Gen4)

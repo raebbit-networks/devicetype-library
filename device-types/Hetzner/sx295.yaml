@@ -1,0 +1,65 @@
+---
+manufacturer: Hetzner
+model: SX295
+slug: htz_sx295
+part_number: sx295
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: EPYC™ 7502P / 32-Core Rome (Zen2) Simultaneous Multithreading Virtualisierung (AMD-V)
+  - name: RAM
+    manufacturer: Other
+    description: 256 GB DDR4 ECC reg.
+  - name: Storage
+    manufacturer: Other
+    description: 7068 GB (Gen4)
+  - name: Storage
+    manufacturer: Other
+    description: 7068 GB (Gen4)
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm

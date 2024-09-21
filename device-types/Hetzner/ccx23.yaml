@@ -1,0 +1,21 @@
+---
+manufacturer: Hetzner
+model: CCX23
+slug: htz_hcld_ccx23
+part_number: 97
+comments: "cores: 4\nmemory: 16.0\ndisk: 160\nstorage_type: local\ncpu_type: dedicated\narchitecture: x86"
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: 4 Cores
+  - name: RAM
+    manufacturer: Other
+    description: 16 GB
+  - name: Storage
+    manufacturer: Other
+    description: 160 GB

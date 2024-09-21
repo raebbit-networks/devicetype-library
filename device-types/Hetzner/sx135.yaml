@@ -1,0 +1,47 @@
+---
+manufacturer: Hetzner
+model: SX135
+slug: htz_sx135
+part_number: sx135
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: Ryzen™ 9 3900 / 12-Core Matisse (Zen2) Simultaneous Multithreading Virtualisierung (AMD-V)
+  - name: RAM
+    manufacturer: Other
+    description: 128 GB DDR4 ECC
+  - name: Storage
+    manufacturer: Other
+    description: 1092 GB (Gen3)
+  - name: Storage
+    manufacturer: Other
+    description: 1092 GB (Gen3)
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm
+  - name: Storage
+    manufacturer: Other
+    description: 22528 GB SATA 7200 rpm

@@ -1,0 +1,23 @@
+---
+manufacturer: Hetzner
+model: AX102
+slug: htz_ax102
+part_number: ax102
+u_height: 1
+is_full_depth: true
+interfaces:
+  - name: eth0
+    type: 1000base-t
+inventory-items:
+  - name: CPU
+    manufacturer: AMD
+    description: Ryzen™ 9 7950X3D / 16 Core Raphael (Zen 4) mit AMD 3D V-Cache™ Technology Simultaneous Multithreading Virtualization (AMD-V)
+  - name: RAM
+    manufacturer: Other
+    description: 128 GB DDR5 ECC
+  - name: Storage
+    manufacturer: Other
+    description: 1092 GB (Gen4)
+  - name: Storage
+    manufacturer: Other
+    description: 1092 GB (Gen4)
