@@ -1,6 +1,6 @@
 ---
 manufacturer: Hetzner
-model: AX52
+model: Dedicated Root Server AX52
 slug: htz_ax52
 part_number: ax52
 u_height: 1

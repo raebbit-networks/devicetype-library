@@ -1,7 +1,7 @@
 ---
 manufacturer: Hetzner
-model: MC30
-slug: htz_msrv_mc30
+model: Virtual Managed Server MC30
+slug: htz_vmsrv_mc30
 part_number: mc30
 u_height: 1
 is_full_depth: true

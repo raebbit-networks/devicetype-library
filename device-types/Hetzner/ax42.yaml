@@ -1,6 +1,6 @@
 ---
 manufacturer: Hetzner
-model: AX42
+model: Dedicated Root Server AX42
 slug: htz_ax42
 part_number: ax42
 u_height: 1
