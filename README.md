@@ -216,3 +216,11 @@ There are two ways this repo focuses on keeping quality device-type definitions:
     - To uninstall the pre-commit script: `pre-commit uninstall`
   - Learn more about [pre-commit](https://pre-commit.com/)
 - **GitHub Actions** - Automatically run before a PR can be merged. Repeats yamllint & validates against NetBox Device-Type Schema.
+
+## Custom Additions
+
+This repo adds the following resoures, which do not comply with the contribution rules decalred by the origin repository:
+
+### Device-Types
+
+- Hetzner dedicated, cloud, managed and storage devices
